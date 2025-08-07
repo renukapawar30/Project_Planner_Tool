@@ -1,0 +1,19 @@
+[
+    {
+        "id": "770655f6-7071-431f-9cdc-83fb11c59ff7",
+        "board_name": "Backend Board",
+        "board_description": "Tasks related to product API's",
+        "team_id": "182bdca5-8ec4-460e-a4bd-7aeb69d77afd",
+        "creation_time": "2025-08-07 22:00:11",
+        "tasks": [
+            {
+                "id": "d1636297-61ed-4607-85fd-cd10df5fecf9",
+                "title": "Fix User Login API",
+                "description": "Ensure proper token validation",
+                "user_id": "182bdca5-8ec4-460e-a4bd-7aeb69d77afd",
+                "status": "IN PROGRESS",
+                "creation_time": "2025-08-07 22:00:11"
+            }
+        ]
+    }
+]
